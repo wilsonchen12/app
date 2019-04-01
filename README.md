@@ -11,4 +11,6 @@ The goal of this experimental Dash app is to:
 1. Explore the coding style of writing dash components in class (Object Oriented).
 2. Experiment how to make composite design of menu with sub items
 
+To run the app, users may simply run the python file in Pycharm or type "python dash_test1.py" in terminal.
+
 
