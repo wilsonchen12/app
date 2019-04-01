@@ -2,7 +2,7 @@
 
 Wilson Chen
 
-This dash application make a box plot of tips dataset from seaborn package. It allows users to arbitrarily 
+This dash application makes a box plot of the Tips dataset from Seaborn package. It allows users to arbitrarily 
 choose a grouping factor, a splitting factor and different levels to visualize the data. Its menu also has 
 hide/show and select all/none/latest features in composite menu that were coded in object-oriented style.
 
