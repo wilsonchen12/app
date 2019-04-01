@@ -1,4 +1,4 @@
-#A dash application with multiple filters
+# A dash application with multiple filters in a composite menu
 
 Wilson Chen
 
